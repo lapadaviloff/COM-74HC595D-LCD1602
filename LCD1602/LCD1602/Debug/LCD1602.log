@@ -1,0 +1,10 @@
+﻿  LCD1602.cpp
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(115,2): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(115,2): warning C4309: инициализация: усечение константного значения
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(117,2): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(117,2): warning C4309: инициализация: усечение константного значения
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(125,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(147,33): warning C4805: |: небезопасное смешение типа "int" и типа "bool" в операции
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(148,19): warning C4806: |: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+F:\project\visualStudio2019\LCD1602\LCD1602\LCD1602\LCD1602.cpp(150,37): warning C4805: |: небезопасное смешение типа "int" и типа "bool" в операции
+  LCD1602.vcxproj -> F:\project\visualStudio2019\LCD1602\LCD1602\Debug\LCD1602.exe
